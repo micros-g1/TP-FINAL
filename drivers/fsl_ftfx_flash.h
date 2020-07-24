@@ -235,7 +235,7 @@ status_t FLASH_Program(flash_config_t *config, uint32_t start, uint8_t *src, uin
 /*!
  * @brief Reads the Program Once Field through parameters.
  *
- * This function reads the read once feild with given index and length.
+ * This function reads the read once field with given index and length.
  *
  * @param config A pointer to the storage for the driver runtime state.
  * @param index The index indicating the area of program once field to be read.
